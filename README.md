@@ -67,24 +67,24 @@ Para rodar o React : ```` npm run start / yarn start ````.
 
 **Web**
 
-<img src="images/web1.jpg" align="left"></img>
-<img src="images/web2.jpg" align="right"></img>
-<img src="images/web3.jpg" align="left"></img>
-<img src="images/web4.jpg" align="right"></img>
-<img src="images/web5.jpg" align="left"></img>
-<img src="images/web6.jpg" align="right"></img>
+<img src="images/web1.jpg"></img>
+<img src="images/web2.jpg" ></img>
+<img src="images/web3.jpg"></img>
+<img src="images/web4.jpg" ></img>
+<img src="images/web5.jpg"></img>
+<img src="images/web6.jpg" ></img>
 
 
 **Mobile**
 
-<img src="images/mobile1.png" align="left"></img>
-<img src="images/mobile2.png" align="right"></img>
-<img src="images/mobile3.png" align="left"></img>
-<img src="images/mobile4.png" align="right"></img>
-<img src="images/mobile5.png" align="left"></img>
-<img src="images/mobile6.png" align="right"></img>
-<img src="images/mobile7.png" align="left"></img>
-<img src="images/mobile8.png" align="right"></img>
+<img src="images/mobile1.png"></img>
+<img src="images/mobile2.png" ></img>
+<img src="images/mobile3.png"></img>
+<img src="images/mobile4.png" ></img>
+<img src="images/mobile5.png"></img>
+<img src="images/mobile6.png" ></img>
+<img src="images/mobile7.png"></img>
+<img src="images/mobile8.png" ></img>
 
 
 # Desafios
